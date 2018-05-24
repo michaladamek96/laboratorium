@@ -1,0 +1,12 @@
+C:\Users\student\Documents\LL\mb\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\student\Documents\LL\mb\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\student\Documents\LL\mb\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\student\Documents\LL\mb\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\LL\mb\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\student\Documents\LL\mb\lab3\lab3\obj\Debug\lab3.pdb
+H:\lab3\lab3\bin\Debug\lab3.exe.config
+H:\lab3\lab3\obj\Debug\lab3.exe
+H:\lab3\lab3\obj\Debug\lab3.pdb
+H:\lab3\lab3\bin\Debug\lab3.exe
+H:\lab3\lab3\bin\Debug\lab3.pdb
+H:\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
